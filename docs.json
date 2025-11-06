@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "Your Documentation",
-  "theme": "mint",
+  "theme": "willow",
   "metadata": {
     "title": "Your Documentation - Complete Guide",
     "description": "Comprehensive documentation for your product or service",
