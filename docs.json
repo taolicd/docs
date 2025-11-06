@@ -1,13 +1,19 @@
 {
   "$schema": "https://mintlify.com/docs.json",
+  "name": "Your Documentation",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "metadata": {
+    "title": "Your Documentation - Complete Guide",
+    "description": "Comprehensive documentation for your product or service",
+    "og:image": "/images/og-image.png"
+  },
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#00A1C9",
+    "light": "#37B8D6",
+    "dark": "#0081A3"
   },
   "favicon": "/favicon.svg",
+  "css": ["/custom.css"],
   "navigation": {
     "tabs": [
       {

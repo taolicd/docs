@@ -1,0 +1,24 @@
+/* Custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Custom button styles */
+.mint-button {
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+/* Custom code block styling */
+pre {
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Custom card styling */
+.mint-card {
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
